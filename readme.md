@@ -1,7 +1,8 @@
+# Project 26-09 Full Stack Software Development Module 1 Web Design
 
-
-
-
+https://github.com/luizbianco?tab=repositories
+https://github.com/luizbianco/visit-brasil
+https://luizbianco.github.io/visit-brasil/
 
 # Visit Brasil 🇧🇷
 
@@ -71,15 +72,6 @@ Spotify heading not displaying -->	Corrected a missing > in the opening section 
 Regional heading colors not applying --> Corrected CSS heading selectors.
 
 
-## Deployment
-
-## AI Assistance
-### CSS HEADER GRADIENT
--TOOL: CHATGPT
-https://chatgpt.com/share/6b05bea8-816c-83e9-84a9-46c4754b83bd
-
-## Credits and References
-
 ### Technologies and Resources
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Google Fonts - Quantico](https://fonts.google.com/specimen/Quantico)
@@ -91,11 +83,32 @@ https://chatgpt.com/share/6b05bea8-816c-83e9-84a9-46c4754b83bd
 ### Content
 - [Add sources used for information about Brazil here]
 
-### AI Acknowledgement
+## AI Acknowledgement
 ChatGPT was used to support the development process,
 including troubleshooting HTML and CSS, understanding
 Bootstrap, improving responsive layouts, and generating
 regional map illustrations.
+
+## AI Assistance
+
+### CSS HEADER GRADIENT
+-TOOL: CHATGPT
+https://chatgpt.com/share/6b05bea8-816c-83e9-84a9-46c4754b83bd
+
+### Site Map
+
+The site map illustrates the website's structure
+and navigation between its four main pages.
+
+https://chatgpt.com/share/6b09a60e-4008-83e9-9ac2-8085a1116471
+
+### Wireframe
+
+https://chatgpt.com/share/6b09a91d-6374-83ea-9e01-50990428c25f
+
+### Planning & Analysis Sheet
+
+https://chatgpt.com/share/6b09aacc-3800-83ea-871a-a1e927354344
 
 ## Future Improvements
 
