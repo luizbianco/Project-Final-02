@@ -12,12 +12,11 @@ Brazil is more than just Rio de Janeiro and São Paulo, and this website aims to
 ## Target Audience
 The target audience includes anyone who has ever wanted to learn more about this beautiful and welcoming country, which is sometimes misunderstood due to its portrayal in the media.
 ## Features
-## Features
 
 - **Regional Maps:** 
 Color-coded maps designed to help visitors identify Brazil's different regions.
-Color-coded "ul h3" to direct the visitor where each region the states belong to.
-![Visit Brasil color-coded map with State List](images/map-list.png.)
+Colour-coded regional headings and state lists that correspond to the map colours, helping visitors identify which states belong to each region.
+![Visit Brasil color-coded map with State List](images/map-list.png)
 
 - **Brazilian Music:** 
 An integrated Spotify playlist allowing visitors to explore Brazilian music.
@@ -35,7 +34,6 @@ A website designed to adapt to different screen sizes using bootstrap.
 - Git
 - GitHub
 
-## Accessibility
 ## Accessibility
 
 Accessibility was taken into consideration during the
@@ -64,7 +62,7 @@ to responsiveness, functionality and website layout.
 | Navigation | All links work corectly | Pass |
 | Responsive design | Layout adapts to screen sizes | Pass |
 | Spotify player | Playlist loads correctly | Pass |
-| Accessibility| Screen readers, keybord navigation, color palet | 95% |
+| Accessibility| Screen readers, keybord navigation, color palet | Pass |
 
 ## Bugs encountered and resolved
 Header not occupying the full screen width -->	Adjusted CSS and responsive layout.
@@ -76,5 +74,33 @@ Regional heading colors not applying --> Corrected CSS heading selectors.
 ## Deployment
 
 ## AI Assistance
+### CSS HEADER GRADIENT
+-TOOL: CHATGPT
+https://chatgpt.com/share/6b05bea8-816c-83e9-84a9-46c4754b83bd
 
 ## Credits and References
+
+### Technologies and Resources
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Google Fonts - Quantico](https://fonts.google.com/specimen/Quantico)
+
+### Images
+- Regional maps of Brazil generated using ChatGPT.
+- Photographs: [Add original image sources here]
+
+### Content
+- [Add sources used for information about Brazil here]
+
+### AI Acknowledgement
+ChatGPT was used to support the development process,
+including troubleshooting HTML and CSS, understanding
+Bootstrap, improving responsive layouts, and generating
+regional map illustrations.
+
+## Future Improvements
+
+- Add individual pages for each Brazilian state.
+- Expand information about tourist attractions.
+- Implement multilingual support.
+- Improve interactive features.
+- Continue improving website accessibility.
