@@ -47,3 +47,7 @@ header h1 {
 .btn:hover {
   transform: scale(1.05);
 }
+.brasilian-music iframe {
+    border-radius: 12px;
+    border: 0;
+}
