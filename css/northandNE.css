@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  font-family: "Quantico", Arial, sans-serif;
+}
+
+header {
+  background: linear-gradient(to right, #009739, #ffdf00);
+  padding: 1px;
+  font-size: 26px;
+  text-align: center;
+  color: black;
+}
+header h1 {
+  font-size: 45px;
+}
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+main {
+  font-size: 20px;
+}
+main {
+  font-size: 16px;
+}
+
+main img {
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+}
+
+.north-group,
+.northeast-group {
+  padding: 25px;
+  /* border: 1px solid #ccc; */
+}
+.north-group h2 {
+  color: #006bb5;
+}
+.northeast-group h2 {
+  color: #ff7900;
+}
