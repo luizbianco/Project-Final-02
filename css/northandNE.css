@@ -46,3 +46,10 @@ main img {
 .northeast-group h2 {
   color: #ff7900;
 }
+.btn {
+    transition: transform 0.6s ease;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}

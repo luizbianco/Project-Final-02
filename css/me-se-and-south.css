@@ -39,3 +39,10 @@ main img {
 .south-group h2 {
   color: #7d11a3;
 }
+.btn {
+    transition: transform 0.6s ease;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
