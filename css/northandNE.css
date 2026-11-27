@@ -40,10 +40,10 @@ main img {
   padding: 25px;
   /* border: 1px solid #ccc; */
 }
-.north-group h2 {
+.north-group h3 {
   color: #006bb5;
 }
-.northeast-group h2 {
+.northeast-group h3 {
   color: #ff7900;
 }
 .btn {

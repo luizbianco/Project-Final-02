@@ -30,13 +30,13 @@ main img {
   max-width: 100%;
   height: auto;
 }
-.midwest-group h2 {
+.midwest-group h3 {
   color: #1a9901;
 }
-.southeast-group h2 {
+.southeast-group h3 {
   color: #fed203;
 }
-.south-group h2 {
+.south-group h3 {
   color: #7d11a3;
 }
 .btn {
