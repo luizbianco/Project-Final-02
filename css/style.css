@@ -26,7 +26,7 @@ header h1 {
   object-fit: cover;
   object-position: center;
 }
-.hero h1 {
+.hero h2 {
   font-size: 35px;
   margin-top: 20px;
 }
@@ -41,9 +41,13 @@ header h1 {
   color: #b8860b;
 }
 .btn {
-    transition: transform 0.6s ease;
+  transition: transform 0.6s ease;
 }
 
 .btn:hover {
-    transform: scale(1.05);
+  transform: scale(1.05);
+}
+.brasilian-music iframe {
+    border-radius: 12px;
+    border: 0;
 }
